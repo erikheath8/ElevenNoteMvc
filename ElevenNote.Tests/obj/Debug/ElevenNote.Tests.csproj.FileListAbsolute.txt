@@ -1,0 +1,16 @@
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Tests.dll.config
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Tests.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Tests.pdb
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\EntityFramework.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\EntityFramework.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csprojAssemblyReference.cache
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CopyComplete
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.pdb

@@ -1,0 +1,15 @@
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\fzr60\Documents\projects\c#\elevenfifty\redBadge\elevenNoteMvc\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
